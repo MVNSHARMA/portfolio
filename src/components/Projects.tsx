@@ -28,10 +28,11 @@ const PROJECTS = [
   },
   {
     id: 4,
-    title: "AI Chat Interface",
-    category: "UX / UI",
-    description: "Conversational interface with fluid framer-motion interactions and a sleek dark mode design.",
+    title: "CineMatch",
+    category: "Web Page",
+    description: "A movie recommendation system that uses AI to suggest movies based on user mood.",
     color: "from-indigo-500/20 to-blue-500/20",
+    link: "https://cinematch-47e62.web.app/",
   }
 ];
 
