@@ -1,4 +1,3 @@
-import { link } from "fs";
 import { ArrowUpRight } from "lucide-react";
 
 const PROJECTS = [
@@ -12,11 +11,11 @@ const PROJECTS = [
   },
   {
     id: 2,
-    title: "SUGAR COATED MOOD JOURNAL",
+    title: "LexAnalyze",
     category: "Web Page",
-    description: "A web application designed to help users track their mood and journal their thoughts.",
+    description: "Built LexAnalyze, an AI-powered legal document analyzer for Indian courts that extracts case details, judges, sections, and judgments from PDFs — with multilingual support in 12 Indian languages and a document chat feature powered by Groq AI.",
     color: "from-emerald-500/20 to-teal-500/20",
-    link: "https://huggingface.co/spaces/MVNSHARMA/sugar-coated-mood-journal",
+    link: "https://legal-document-summarizer-dusky.vercel.app",
   },
   {
     id: 3,
