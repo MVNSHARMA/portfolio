@@ -8,31 +8,31 @@ const certifications = [
     title: "Gen AI Engineering Mastermind",
     issuer: "Outskill",
     description: "Mastered Generative AI concepts including LLMs, OpenAI API, prompt engineering, and building multi-agent AI systems and custom GPTs.",
-    imageUrl: "/assets/cert-genai.png",
+    imageUrl: "/assets/cert_Mvn_Sharma_Certificate.png",
   },
   {
     title: "Machine Learning Concepts",
     issuer: "Udemy",
     description: "Comprehensive training in machine learning algorithms, data preprocessing, and model evaluation techniques.",
-    imageUrl: "/assets/cert-ml.png",
+    imageUrl: "/assets/cert_machine_learning_programs_in_python.png",
   },
   {
     title: "Artificial Intelligence Fundamentals",
     issuer: "IBM",
     description: "Acquired foundational knowledge of AI concepts, use cases, and applications in enterprise environments.",
-    imageUrl: "/assets/cert-ibm.png",
+    imageUrl: "/assets/cert_IBMDesign20251023-32-f7ftfs.png",
   },
   {
     title: "Claude with the Anthropic API",
     issuer: "Anthropic",
     description: "Covering Claude API integration, prompt engineering, and building production-ready LLM applications. Complements my hands-on work with RAG pipelines, autonomous agents, and LLM orchestration.",
-    imageUrl: "/assets/cert-nlp.png",
+    imageUrl: "/assets/cert_certificate-rij4qbp2jtg9-1782394813.png",
   },
   {
     title: "AI Agents Fundamentals",
     issuer: "Hugging Face",
     description: "Completed 'Fundamentals of Agents' from Hugging Face's Agents Course — covering agentic AI concepts, tool-calling architectures, and autonomous decision-making systems.",
-    imageUrl: "/assets/cert-genai.png",
+    imageUrl: "/assets/cert_image.png",
   }
 ];
 
