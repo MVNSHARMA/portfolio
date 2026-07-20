@@ -19,9 +19,9 @@ const PROJECTS = [
   },
   {
     id: 3,
-    title: "SMART STYLE",
+    title: "Github-Analyser",
     category: "AI/ML",
-    description: "This project is an AI-powered Fashion Assistant designed to help users find the perfect outfit for any occasion.",
+    description: "A RAG-powered conversational agent that lets developers query any GitHub repository in natural language, with cited commit SHAs.",
     color: "from-orange-500/20 to-red-500/20",
     link: "https://smart-style.vercel.app/",
   },
