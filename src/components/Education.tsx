@@ -8,12 +8,6 @@ const EDUCATION = [
     school: "KLH UNIVERSITY",
     year: "2023-2027",
     description: "Specialized in Artificial Intelligence and Machine Learning. Relevant coursework: Data Structures, Algorithms, Deep Learning, Natural Language Processing.",
-  },
-  {
-    degree: "High School Equivalent",
-    school: "Narayana Junior College",
-    year: "2020-2023",
-    description: "Graduated with honors.",
   }
 ];
 
