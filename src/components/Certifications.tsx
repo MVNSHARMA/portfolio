@@ -23,10 +23,16 @@ const certifications = [
     imageUrl: "/assets/cert-ibm.png",
   },
   {
-    title: "Natural Language Processing (NLP)",
-    issuer: "Simplilearn",
-    description: "Developed expertise in Natural Language Processing techniques, including text analysis, sentiment classification, and language modeling.",
+    title: "Claude with the Anthropic API",
+    issuer: "Anthropic",
+    description: "Covering Claude API integration, prompt engineering, and building production-ready LLM applications. Complements my hands-on work with RAG pipelines, autonomous agents, and LLM orchestration.",
     imageUrl: "/assets/cert-nlp.png",
+  },
+  {
+    title: "AI Agents Fundamentals",
+    issuer: "Hugging Face",
+    description: "Completed 'Fundamentals of Agents' from Hugging Face's Agents Course — covering agentic AI concepts, tool-calling architectures, and autonomous decision-making systems.",
+    imageUrl: "/assets/cert-genai.png",
   }
 ];
 
