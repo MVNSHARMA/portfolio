@@ -6,6 +6,28 @@ import { Briefcase, Calendar, MapPin } from "lucide-react";
 const EXPERIENCES = [
   {
     id: 1,
+    role: "AI/ML & Forward-Deployed Engineer",
+    company: "Black Box",
+    location: "Remote",
+    period: "July 2026 – October 2026",
+    description:
+      "Worked as an AI/ML and Forward-Deployed Engineer, integrating AI capabilities into the company’s web platform and developing production-ready AI-driven workflows and backend automations. Designed and implemented machine learning algorithms for intelligent matching, scoring, and decision-making, while translating business requirements into practical AI solutions and deploying them within the existing product ecosystem.",
+    skills: [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "AI Automation",
+      "Algorithm Development",
+      "AI Integration",
+      "Backend Engineering",
+      "Forward-Deployed Engineering",
+      "Project Management",
+    ],
+    badgeColor: "bg-blue-500/10 border-blue-500/20 text-blue-400",
+    glowColor: "bg-blue-500/10",
+    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+  },
+  {
+    id: 2,
     role: "AI/ML Intern",
     company: "iplairani.com",
     location: "Remote",
@@ -18,7 +40,7 @@ const EXPERIENCES = [
     image: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&q=80",
   },
   {
-    id: 2,
+    id: 3,
     role: "Assistant HR",
     company: "Student Council",
     location: "KLH University",

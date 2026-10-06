@@ -23,7 +23,6 @@ const PROJECTS = [
     category: "AI/ML",
     description: "A RAG-powered conversational agent that lets developers query any GitHub repository in natural language, with cited commit SHAs.",
     color: "from-orange-500/20 to-red-500/20",
-    link: "https://smart-style.vercel.app/",
   },
   {
     id: 4,
